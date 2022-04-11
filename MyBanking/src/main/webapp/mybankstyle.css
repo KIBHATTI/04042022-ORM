@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+table
+{
+	background-color:yellow;
+}
+h1,h2
+{
+	text-align: Center;
+}
+input{
+	text-align: center;
+	color:maroon;
+}
+button{
+	
+	text-align: center;
+}
